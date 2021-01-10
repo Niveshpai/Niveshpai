@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nivesh Pai</h1>
 <h3 align="center">A passionate ethical hacker from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niveshpai&label=Profile%20views&color=0e75b6&style=flat" alt="niveshpai" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niveshpai" alt="niveshpai" /></a> </p>
-
 - 🌱 I’m currently learning **Bug Bounty Hunting**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Niveshpai?tab=repositories](https://github.com/Niveshpai?tab=repositories)
