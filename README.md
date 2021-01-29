@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **niveshpai123@gmail.com**
 
-- ⚡ Fun fact **Passwords are like underwear: don't let people see it, change it very often, and you shouldn't share it with strangers.**
+- ⚡ Fun fact : **Passwords are like underwear: don't let people see it, change it very often, and you shouldn't share it with strangers.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
