@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Niveshpai?tab=repositories](https://github.com/Niveshpai?tab=repositories)
 
-- 📝 I regularly write articles on [www.linuxocity.studio](www.linuxocity.studio)
+- 📝 I regularly write articles on [linuxocity.studio](linuxocity.studio)
 
 - 💬 Ask me about **CyberSecurity, C, HTML**
 
