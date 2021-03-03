@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **CyberSecurity, C, HTML**
 
-- 📫 How to reach me **niveshpai123@gmail.com**
+- 📫 How to reach me **www.niveshpai.tech**
 
 - ⚡ Fun fact : **Passwords are like underwear: don't let people see it, change it very often, and you shouldn't share it with strangers.**
 
